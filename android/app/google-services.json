@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803134002676",
+    "project_id": "skybe-clone",
+    "storage_bucket": "skybe-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803134002676:android:29f346c52dd668d6da95a1",
+        "android_client_info": {
+          "package_name": "com.example.sykebe_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803134002676-7qaved3ug7o7a76i5ctccgi7dqm8snu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sykebe_clone",
+            "certificate_hash": "4a5b0ed3ec3a023222cdb3e8e23018ff535e473a"
+          }
+        },
+        {
+          "client_id": "803134002676-r306bovfb6bb11606pt81asjv4h7vmb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfVPB_7uBy9nv7FXscf2Bj3eEubEw79A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803134002676-r306bovfb6bb11606pt81asjv4h7vmb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
